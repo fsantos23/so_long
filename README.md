@@ -20,7 +20,7 @@ A simple 2D game made with MinilibX, part of the 42 curriculum.
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/[your-username]/so_long.git
+git clone https://github.com/fsantos23/so_long.git
 cd so_long
 make
 ```
@@ -28,7 +28,7 @@ make
 ## 🎲 How to Play
 
 ```bash
-./so_long maps/map.ber
+./so_long maps/map_1.ber
 ```
 
 ### Controls
